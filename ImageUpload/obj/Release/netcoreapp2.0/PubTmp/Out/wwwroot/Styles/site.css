@@ -1,0 +1,28 @@
+﻿html { font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+
+main { margin: 20px; }
+
+#gallery-note { font-size: smaller }
+
+.blueimp-gallery {
+    margin: 25px;
+    max-width: 350px;
+    height: 200px;
+    padding-bottom: 150px;
+}
+
+.dropzone {
+    background: #F0F8FF;
+    border: 3px dashed #00a1f1;
+    border-radius: 5px;
+    margin: 25px;
+    max-width: 400px;
+}
+
+
+.dropzone .dz-message .note {
+    display: block;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+}

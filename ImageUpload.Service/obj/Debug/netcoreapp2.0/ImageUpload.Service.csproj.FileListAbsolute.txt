@@ -1,0 +1,11 @@
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.csprojResolveAssemblyReference.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.csproj.CoreCompileInputs.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.AssemblyInfoInputs.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.AssemblyInfo.cs
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\bin\Debug\netcoreapp2.0\ImageUpload.Service.deps.json
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\bin\Debug\netcoreapp2.0\ImageUpload.Service.dll
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\bin\Debug\netcoreapp2.0\ImageUpload.Service.pdb
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\bin\Debug\netcoreapp2.0\ImageUpload.Model.dll
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\bin\Debug\netcoreapp2.0\ImageUpload.Model.pdb
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.dll
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Service\obj\Debug\netcoreapp2.0\ImageUpload.Service.pdb

@@ -1,0 +1,7 @@
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=ImageUpload
+--content-root=C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload
+--file=C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload\Views\Home\Index.cshtml
+--file=C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload\Views\Shared\_Layout.cshtml
+--file=C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload\Views\_ViewStart.cshtml

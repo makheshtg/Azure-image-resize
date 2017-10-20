@@ -1,0 +1,9 @@
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\bin\Release\netcoreapp2.0\ImageUpload.Model.deps.json
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\bin\Release\netcoreapp2.0\ImageUpload.Model.dll
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\bin\Release\netcoreapp2.0\ImageUpload.Model.pdb
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.csprojResolveAssemblyReference.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.csproj.CoreCompileInputs.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.AssemblyInfoInputs.cache
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.AssemblyInfo.cs
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.dll
+C:\Users\v-makgan\Documents\Visual Studio 2017\Projects\ImageUpload\ImageUpload.Model\obj\Release\netcoreapp2.0\ImageUpload.Model.pdb
